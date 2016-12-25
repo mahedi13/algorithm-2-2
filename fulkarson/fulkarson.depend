@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1482688666 source:c:\users\mahedi\desktop\practice\fulkarson\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+	<limits.h>
+	<queue>
+
